@@ -1,0 +1,11 @@
+body {
+    background: LightGray;
+}
+
+h1 {
+    color: blue;
+}
+
+.lorem-text {
+    color: rgb(42, 61, 42);
+}
